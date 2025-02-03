@@ -39,6 +39,7 @@ CREATE TABLE producto (
 Una vez configurada la base de datos, puedes ejecutar la aplicación utilizando el siguiente comando:
 
 mvn spring-boot:run
+
 La aplicación estará disponible en http://localhost:8080.
 
 Endpoints
